@@ -1,1 +1,6 @@
-firebase-functions
+end
+delete
+stop
+close
+no 
+stop
