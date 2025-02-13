@@ -1,1 +1,6 @@
-firebase_functions~=0.1.2
+end
+delete
+no
+void
+stop
+void
