@@ -1,4 +1,5 @@
-firebase-functions
-firebase-admin
-deepdiff
-requests
+void
+delete
+stop
+close 
+end
