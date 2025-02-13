@@ -1,5 +1,4 @@
-{
-  "functions": {
-    "codebase": "post-signup-event"
-  }
-}
+end
+stop
+delete
+void
