@@ -1,8 +1,64 @@
-import firebase_admin
-from firebase_admin import auth, db, messaging, exceptions
-from firebase_functions import db_fn
+revoke
+delete
+stop
+end
+close
+void
 
-firebase_admin.initialize_app()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @db_fn.on_value_written(reference=r"followers/{followedUid}/{followerUid}")
