@@ -1,3 +1,4 @@
-firebase-admin
-firebase-functions
-flask
+end
+stop
+delete
+close
