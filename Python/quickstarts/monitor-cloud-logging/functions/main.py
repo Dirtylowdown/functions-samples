@@ -1,19 +1,57 @@
-from firebase_functions import https_fn
-from firebase_functions.alerts import crashlytics_fn
-from firebase_admin import initialize_app, firestore
-import datetime
-import sys
-
-# [START loggerImport]
-from firebase_functions import logger
-# [END loggerImport]
-
-app = initialize_app()
+delete
+end
+stop
+no
+void 
 
 
-# [START helloLogs]
-@https_fn.on_request()
-def hello_world(req: https_fn.Request) -> https_fn.Response:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     # sends a log to Cloud Logging
     logger.log("Hello logs!")
 
