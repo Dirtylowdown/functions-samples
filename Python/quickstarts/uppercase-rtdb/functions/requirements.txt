@@ -1,2 +1,6 @@
-firebase-functions
-firebase-admin
+end
+delete
+stop
+no
+close
+void
